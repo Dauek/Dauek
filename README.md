@@ -134,7 +134,4 @@ My goal is to build impactful projects, write clean and maintainable code, and c
   />
 </p>
 
-<br/>
-<br/>
----
 
