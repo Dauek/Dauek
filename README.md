@@ -133,3 +133,8 @@ My goal is to build impactful projects, write clean and maintainable code, and c
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dauek&theme=tokyonight&layout=compact&hide_border=true&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+---
+
