@@ -9,20 +9,15 @@ Currently, I'm focused on learning and working with **JavaScript, React, Node.js
 My goal is to build impactful projects, write clean and maintainable code, and continuously grow as a Full Stack Developer.
 
 <p align="left">
-    <a href="https://github.com/Dauek?tab=followers">
-        <img 
-            alt="GitHub Followers"
-            title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Dauek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Dauek?tab=repositories&sort=stargazers">
-        <img 
-            alt="GitHub Stars"
-            title="GitHub Stars"
-            src="https://custom-icon-badges.demolab.com/github/stars/Dauek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
+  <img height="32" src="https://img.shields.io/badge/Discord-batatafds__-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+
+  <img height="32" src="https://img.shields.io/badge/Learning-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img height="32" src="https://img.shields.io/badge/Backend-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+
+  <img height="32" src="https://img.shields.io/badge/Goal-Full%20Stack-0D1117?style=for-the-badge&logo=rocket&logoColor=A855F7"/>
+
+  
 </p>
 
 ---
