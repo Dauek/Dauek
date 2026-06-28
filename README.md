@@ -45,15 +45,3 @@ My goal is to build impactful projects, write clean and maintainable code, and c
 </p>
 
 ---
-
-# 📫 Connect with Me
-
-<p align="center">
-<a href="https://github.com/Dauek">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://discord.com/users/batatafds_">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-</p>
